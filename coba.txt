@@ -1,4 +1,7 @@
 - Membuat baris pertama
 - Membuat baris ketiga
 - Menambah baris keempat
+  - orang kedua menambah sub teks pada baris ke-4
 - Menghapus baris kedua & Menambah baris baru
+- Baris baru ditambahkan oleh orang ke-2
+- Baris baru ditambahkan oleh orang ke-2
